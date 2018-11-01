@@ -1,0 +1,15 @@
+D:\source\Mock2Service\Mock2Service\bin\Release\netcoreapp2.1\Mock2Service.deps.json
+D:\source\Mock2Service\Mock2Service\bin\Release\netcoreapp2.1\Mock2Service.runtimeconfig.json
+D:\source\Mock2Service\Mock2Service\bin\Release\netcoreapp2.1\Mock2Service.runtimeconfig.dev.json
+D:\source\Mock2Service\Mock2Service\bin\Release\netcoreapp2.1\Mock2Service.dll
+D:\source\Mock2Service\Mock2Service\bin\Release\netcoreapp2.1\Mock2Service.pdb
+D:\source\Mock2Service\Mock2Service\obj\Release\netcoreapp2.1\Mock2Service.csprojAssemblyReference.cache
+D:\source\Mock2Service\Mock2Service\obj\Release\netcoreapp2.1\Mock2Service.csproj.CoreCompileInputs.cache
+D:\source\Mock2Service\Mock2Service\obj\Release\netcoreapp2.1\Mock2Service.RazorAssemblyInfo.cache
+D:\source\Mock2Service\Mock2Service\obj\Release\netcoreapp2.1\Mock2Service.RazorAssemblyInfo.cs
+D:\source\Mock2Service\Mock2Service\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\source\Mock2Service\Mock2Service\obj\Release\netcoreapp2.1\Mock2Service.AssemblyInfoInputs.cache
+D:\source\Mock2Service\Mock2Service\obj\Release\netcoreapp2.1\Mock2Service.AssemblyInfo.cs
+D:\source\Mock2Service\Mock2Service\obj\Release\netcoreapp2.1\Mock2Service.RazorTargetAssemblyInfo.cache
+D:\source\Mock2Service\Mock2Service\obj\Release\netcoreapp2.1\Mock2Service.dll
+D:\source\Mock2Service\Mock2Service\obj\Release\netcoreapp2.1\Mock2Service.pdb
